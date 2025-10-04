@@ -109,6 +109,16 @@ I specialize in **Java, Kotlin, Spring Boot, and Kubernetes**, with deep experti
 
 ---
 
+## 📜 Reference Letters & Testimonials
+
+<p align="center">
+  <img src="./images/references/accenture-reference.png" width="300"/>
+  <img src="./images/references/Heycar-reference.png" width="300"/>
+  <img src="./images/references/Oviva-reference.png" width="300"/>
+</p>
+
+📄 [View All Reference Letters →](./images/references/)
+
 ## 📚 Writing & Talks
 
 - ✍️ *Coming soon:* Blog series on “Designing Multi-Tenant SaaS with Keycloak”  
