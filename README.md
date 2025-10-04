@@ -111,11 +111,43 @@ I specialize in **Java, Kotlin, Spring Boot, and Kubernetes**, with deep experti
 
 ## 📜 Reference Letters & Testimonials
 
-<p align="center">
-  <img src="./images/references/accenture-reference.png" width="300"/>
-  <img src="./images/references/Heycar-reference.png" width="300"/>
-  <img src="./images/references/Oviva-reference.png" width="300"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./images/references/accenture-reference.png">
+        <img src="./images/references/thumbs/accenture-reference_thumb.png" alt="Reference letter - CTO, Nexmart GmbH" height="260">
+      </a>
+      <br/>
+      <sub><b>CTO, Nexmart GmbH</b><br/>
+      “Khaled combines deep architectural insight with pragmatic execution.”</sub>
+      <br/>
+      <a href="./images/references/accenture-reference.png">📄 View PDF</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="./images/references/Heycar-reference.png">
+        <img src="./images/references/thumbs/Heycar-reference_thumb.png" alt="Reference letter - Engineering Manager, SaaS Platform" height="260">
+      </a>
+      <br/>
+      <sub><b>Engineering Manager, SaaS Platform</b><br/>
+      “A natural staff engineer—leads with clarity, mentors with patience.”</sub>
+      <br/>
+      <a href="./images/references/Heycar-reference.png">📄 View PDF</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="./images/references/Oviva-reference.png">
+        <img src="./images/references/thumbs/oviva-reference_thumb.png" alt="Reference letter - Head of Product, Identity Services" height="260">
+      </a>
+      <br/>
+      <sub><b>Head of Product, Identity Services</b><br/>
+      “Delivered a flawless Keycloak migration for 500k+ users.”</sub>
+      <br/>
+      <a href="./images/references/Oviva-reference.png">📄 View PDF</a>
+    </td>
+  </tr>
+</table>
+
+📦 <sub>All originals available in <a href="./images/references/">/images/references</a>.</sub>
+
 
 📄 [View All Reference Letters →](./images/references/)
 
