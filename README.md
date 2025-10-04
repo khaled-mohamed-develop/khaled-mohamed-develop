@@ -2,13 +2,13 @@
 <h3 align="center">🚀 Staff Backend Engineer | Java & Kotlin | Cloud-Native Architect | DevOps & Distributed Systems Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/khaled-mohamed-software" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge">
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:engkhaledmos3ad@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=khaled-mohamed-develop&style=for-the-badge&color=blue" alt="Profile Views">
 </p>
 
 ---
@@ -60,25 +60,25 @@ I bring deep expertise in **Java, Kotlin, Spring Boot**, and **Kubernetes**, wit
 
 | 🚀 Project | 🧠 Description | ⚙️ Tech |
 |-----------|---------------|---------|
-| [**Autheto**](https://github.com/YOUR_USERNAME/autheto) | Multi-tenant Identity & Access platform with Keycloak | Java, Spring Boot, Docker |
-| [**Masar**](https://github.com/YOUR_USERNAME/masar) | Global “along-the-road services” API (EV, Fuel, Rescue) | Kotlin, PostGIS, Mapbox |
-| [**Data Engine**](https://github.com/YOUR_USERNAME/data-engine) | Dynamic workflow orchestration and configuration engine | Kotlin, Spring, PostgreSQL |
+| [**Autheto**](https://github.com/khaled-mohamed-develop/autheto) | Multi-tenant Identity & Access platform with Keycloak | Java, Spring Boot, Docker |
+| [**Masar**](https://github.com/khaled-mohamed-develop/masar) | Global “along-the-road services” API (EV, Fuel, Rescue) | Kotlin, PostGIS, Mapbox |
+| [**Data Engine**](https://github.com/khaled-mohamed-develop/data-engine) | Dynamic workflow orchestration and configuration engine | Kotlin, Spring, PostgreSQL |
 
 ---
 
 ## 📊 GitHub Analytics & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khaled-mohamed-develop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-mohamed-develop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=khaled-mohamed-develop&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=khaled-mohamed-develop&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -93,8 +93,8 @@ I bring deep expertise in **Java, Kotlin, Spring Boot**, and **Kubernetes**, wit
 
 ## 🌐 Connect With Me
 
-📫 **Email:** [YOUR_EMAIL](mailto:YOUR_EMAIL)  
-💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+📫 **Email:** [YOUR_EMAIL](mailto:engkhaledmos3ad@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/khaled-mohamed-software](https://www.linkedin.com/in/khaled-mohamed-software)  
 🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(optional)*
 
 ---
