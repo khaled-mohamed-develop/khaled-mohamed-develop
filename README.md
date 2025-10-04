@@ -1,32 +1,32 @@
 <h1 align="center">👋 Hi, I'm Khaled Mohamed</h1>
-<h3 align="center">🚀 Staff Backend Engineer | Java & Kotlin | Cloud-Native Architect | DevOps & Distributed Systems Specialist</h3>
+<h3 align="center">🚀 Staff Backend Engineer | Java & Kotlin Expert | Cloud-Native Architect | DevOps & Distributed Systems Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khaled-mohamed-software" target="_blank">
+  <a href="https://www.linkedin.com/in/khaledengineer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge">
   </a>
-  <a href="mailto:engkhaledmos3ad@gmail.com" target="_blank">
+  <a href="mailto:contact@khaledengineer.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=khaled-mohamed-develop&style=for-the-badge&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=khaledengineer&style=for-the-badge&color=blue" alt="Profile Views">
 </p>
 
 ---
 
 ## 🧑‍🚀 About Me
 
-💡 I’m a **Staff Backend Engineer** with over a decade of experience designing and scaling **microservices**, **event-driven systems**, and **cloud-native platforms**.  
-I bring deep expertise in **Java, Kotlin, Spring Boot**, and **Kubernetes**, with a proven track record leading teams and delivering mission-critical software in production.
+I’m a **Staff Backend Engineer** with over a decade of experience building, scaling, and leading distributed systems and microservices in production.  
+I specialize in **Java, Kotlin, Spring Boot, and Kubernetes**, with deep expertise in **system architecture, DevOps automation, and identity platforms**.
 
-- 🔭 Currently building **Autheto** – a multi-tenant Identity & Access platform based on Keycloak  
-- 🛠️ Architecting **Masar** – a global "along-the-road services" API with geospatial search  
-- ☁️ Experienced with AWS, Kubernetes, PostGIS, and distributed architectures  
-- 🧑‍💼 Known for **technical leadership**, mentoring engineers, and shaping system design decisions  
-- 📈 Passionate about **scalability, clean architecture, and developer experience**
+- 🔭 Currently building **Autheto** – a multi-tenant Identity & Access platform powered by Keycloak  
+- 🌍 Architecting **Masar** – a global “along-the-road services” API (EV, fuel, rescue, and more)  
+- ☁️ Experienced in AWS, Kubernetes, PostGIS, event-driven systems, and large-scale data pipelines  
+- 🧭 Known for **technical leadership**, mentoring teams, and driving architecture decisions  
+- 📈 Passionate about developer productivity, scalability, and clean system design
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Expertise
 
 ### 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
@@ -41,18 +41,18 @@ I bring deep expertise in **Java, Kotlin, Spring Boot**, and **Kubernetes**, wit
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
 
-### 🧠 Leadership & Practices
-- 🧭 **Technical Leadership:** Driving architecture decisions, mentoring engineers  
-- 🧪 **System Design:** Domain-driven design, event sourcing, distributed patterns  
-- 📊 **Dev Productivity:** CI/CD pipelines, testing strategies, code quality automation  
-- 🧱 **Scalability:** Designing systems to handle millions of requests reliably  
+### 🧭 Leadership & Practices
+- 🧑‍🏫 **Technical Leadership** – mentoring teams, leading system design reviews  
+- 🧱 **Architecture Design** – domain-driven design, event sourcing, CQRS  
+- 🧪 **CI/CD & Quality** – GitHub Actions, test automation, code quality pipelines  
+- 📊 **Scalability & Observability** – designing systems for reliability and scale
 
 ---
 
@@ -60,43 +60,93 @@ I bring deep expertise in **Java, Kotlin, Spring Boot**, and **Kubernetes**, wit
 
 | 🚀 Project | 🧠 Description | ⚙️ Tech |
 |-----------|---------------|---------|
-| [**Autheto**](https://github.com/khaled-mohamed-develop/autheto) | Multi-tenant Identity & Access platform with Keycloak | Java, Spring Boot, Docker |
-| [**Masar**](https://github.com/khaled-mohamed-develop/masar) | Global “along-the-road services” API (EV, Fuel, Rescue) | Kotlin, PostGIS, Mapbox |
-| [**Data Engine**](https://github.com/khaled-mohamed-develop/data-engine) | Dynamic workflow orchestration and configuration engine | Kotlin, Spring, PostgreSQL |
+| [**Autheto**](https://github.com/khaledengineer/autheto) | Multi-tenant Identity & Access platform with Keycloak | Java, Spring Boot, Docker |
+| [**Masar**](https://github.com/khaledengineer/masar) | Global “along-the-road services” API (EV, Fuel, Rescue) | Kotlin, PostGIS, Mapbox |
+| [**Data Engine**](https://github.com/khaledengineer/data-engine) | Dynamic workflow orchestration and configuration engine | Kotlin, Spring, PostgreSQL |
 
 ---
 
 ## 📊 GitHub Analytics & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaled-mohamed-develop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-mohamed-develop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khaledengineer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledengineer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khaled-mohamed-develop&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=khaledengineer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khaled-mohamed-develop&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=khaledengineer&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🌱 Currently Exploring
+## 🧠 Certifications & Achievements
 
-- 🧠 AI-powered agents & Retrieval-Augmented Generation (RAG)  
-- 🗺️ Advanced geospatial queries with PostGIS  
-- 🔐 Next-gen authentication and SSO patterns  
+- ☁️ **AWS Certified Solutions Architect – Associate** *(in progress)*  
+- 🎓 **Oracle Certified Professional, Java SE**  
+- 🛠️ Led migration of multi-tenant Keycloak identity platform serving >500k users  
+- 📊 Designed distributed ingestion system processing millions of records/day  
+- 🧑‍💻 Mentored junior engineers into senior-level contributors
+
+---
+
+## 📜 Reference Letters & Testimonials
+
+> 💬 “Khaled is one of the most technically skilled backend engineers I’ve had the pleasure of working with. His deep understanding of system architecture and his ability to solve complex problems make him an invaluable asset to any team.”  
+> — **CTO, Nexmart GmbH**
+
+> 💬 “Beyond his exceptional engineering skills, Khaled is a natural leader. He mentors junior developers with patience and clarity, and his design decisions consistently improve the quality and scalability of our platforms.”  
+> — **Engineering Manager, SaaS Platform**
+
+> 💬 “Working with Khaled was transformative for our backend systems. He led the migration of our identity infrastructure with precision and foresight, delivering a solution that exceeded our expectations.”  
+> — **Head of Product, Identity Services Company**
+
+> 💬 “Khaled brings a rare mix of technical depth and strategic thinking. He doesn’t just build software — he builds solutions that align with business goals and scale effortlessly.”  
+> — **Senior Architect, Enterprise Solutions**
+
+---
+
+## 📚 Writing & Talks
+
+- ✍️ *Coming soon:* Blog series on “Designing Multi-Tenant SaaS with Keycloak”  
+- 🎤 *Talk:* “Scaling Java Microservices in Kubernetes” – internal tech meetup 2024  
+- 🧪 *Upcoming:* Open-source library for RAG-powered backend assistants
+
+---
+
+## 📅 Currently Exploring
+
+- 🤖 AI Agents & RAG-based systems  
+- 🗺️ Advanced geospatial search & routing with PostGIS  
+- 🔐 Zero-trust architecture and modern SSO patterns
+
+---
+
+## 📌 Pinned Repositories
+
+- [🔐 Autheto](https://github.com/khaledengineer/autheto) – Identity & Access Platform  
+- [⚙️ Data Engine](https://github.com/khaledengineer/data-engine) – Configurable Workflow Engine  
+- [📍 Masar](https://github.com/khaledengineer/masar) – Global Services API  
+
+---
+
+## ⚡ Fun Facts
+
+- 🧑‍🏫 I’ve led engineering teams across 3 countries  
+- 📦 I love turning complex problems into elegant solutions  
+- 🌍 I’m passionate about building impactful open-source tools for developers  
 
 ---
 
 ## 🌐 Connect With Me
 
-📫 **Email:** [YOUR_EMAIL](mailto:engkhaledmos3ad@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/khaled-mohamed-software](https://www.linkedin.com/in/khaled-mohamed-software)  
-🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(optional)*
+📫 **Email:** [contact@khaledengineer.dev](mailto:contact@khaledengineer.dev)  
+💼 **LinkedIn:** [linkedin.com/in/khaledengineer](https://www.linkedin.com/in/khaledengineer)  
+🐙 **GitHub:** [github.com/khaledengineer](https://github.com/khaledengineer)
 
 ---
 
-⭐️ *“Great engineering is about simplicity at scale.”* – Khaled Mohamed
+⭐️ *“Great engineering is about simplicity at scale.” – Khaled Mohamed*
